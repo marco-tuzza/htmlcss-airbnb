@@ -1,0 +1,35 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+main{
+  background-color: #1e2d3c;
+  background-size: contain;
+  height: 100vh;
+}
+
+.gotham{
+  width: 200px;
+  height: 200px;
+  margin: auto;
+  background-color: red;
+  border: 4px solid white;
+}
+
+.metropolis{
+  width: 200px;
+  height: 200px;
+  margin: auto;
+  background-color: blue;
+  border: 4px solid white;
+}
+
+.central{
+  width: 200px;
+  height: 200px;
+  margin: auto;
+  background-color: green;
+  border: 4px solid white;
+}
